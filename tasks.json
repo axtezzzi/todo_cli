@@ -2,11 +2,11 @@
   {
     "id": 1,
     "title": "купить хлеб",
-    "done": false
+    "done": true
   },
   {
-    "id": 2,
-    "title": "позвонить маме",
+    "id": 3,
+    "title": "написать email",
     "done": false
   }
 ]
